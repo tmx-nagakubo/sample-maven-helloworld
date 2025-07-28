@@ -1,3 +1,3 @@
 # sample-maven-helloworld
 
-少し修正
+Redmeの修正
